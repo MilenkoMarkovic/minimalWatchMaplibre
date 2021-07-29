@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@react-native-mapbox-gl/maps": "^8.2.1",
+    "appcenter": "4.2.0",
+    "appcenter-analytics": "4.2.0",
+    "appcenter-crashes": "4.2.0",
     "react": "16.13.1",
     "react-native": "0.63.4"
   },
